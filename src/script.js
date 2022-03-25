@@ -39,7 +39,7 @@ document.querySelector('button[type="submit"]')
       return showAndHideErrorMessage()
     }
     firstNameField.value = ''
-    lastNomeField.value = ''
+    lastNameField.value = ''
     emailField.value = ''
     textareaField.value = ''
     phoneField.value = ''
